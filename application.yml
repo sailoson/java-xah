@@ -7,4 +7,4 @@ app:
   argo-version: "2025.10.0"
   argo-domain: "wispbyte.699689.xyz"
   argo-token: "eyJhIjoiNTk4NTkzZTA0ZjcyODYxYzg4ZWEzNzEyM2M5NjI5YzgiLCJ0IjoiODI2NmQ5OTYtYzNjMy00NzBhLTgxYWQtMjc1NzRhYTNhOGM2IiwicyI6Ik1UTXdNMlF4WWpndE9EVTVOQzAwWWpjMExXRTFZVFl0TXpnM04yVXpPREZpTTJSbCJ9"
-  remarks-prefix: ""
+  remarks-prefix: "wispbyte"
